@@ -1,2 +1,2 @@
 # landing page
-Built using modern technologies : html, css, javascript
+Built using modern technologies : HTML, CSS, JavaScript
